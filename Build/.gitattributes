@@ -1,2 +1,2 @@
 Gtlibrary.data filter=lfs diff=lfs merge=lfs -text
-Gtlibrary.framework.js filter=lfs diff=lfs merge=lfs -text
+Gtlibrary.wasm filter=lfs diff=lfs merge=lfs -text
